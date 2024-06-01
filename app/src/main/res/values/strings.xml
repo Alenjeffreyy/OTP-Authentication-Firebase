@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">fire</string>
+    <string name="checking_otp_please_wait">Checking OTP Please Wait..</string>
+</resources>
